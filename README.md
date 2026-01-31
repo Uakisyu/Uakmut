@@ -5,11 +5,16 @@ Use real hardware to perform a MITM (man-in-the-middle) attack on mouse.
 1. It receives all commands from a physical mouse via a USB interface. Simultaneously, another USB interface is used to obtain the user's requested movement commands.
 2. These instructions are processed and coordinate calculations are performed using an MCU (CH32V307VCT6).  
 3. The fake mouse commands are output to the third USB port via another MCU (CH32V307VCT6).
-  
+
+## Design Goals
+Uses a high-speed USB 2.0 interface to achieve stable mouse polling rates of ***125Hz ~ 8KHz***.
+
 ## Overall design
 2x MCU - CH32V307VCT6 (144Mhz)  
 7x LED - Firmware version, Mode status, Flashing mode, Mouse input, Mouse output, Commend input, Error code.  
 3x Button - Switch flashing mode, Switch ON/OFF, Force restart Uakmut.  
+1x USB 2.0 FS (Fast Speed, 12Mbps)  
+2x USB 2.0 HS (High Speed, 480Mbps)  
 
 ## LED Color
 **F** - Firmware verison LED: Customizable. But generally speaking: Red represents the development version, Blue represents the beta version, Green represents the official version, Purple represents the Uakisyu's private version.  
