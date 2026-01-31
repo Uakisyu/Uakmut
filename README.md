@@ -18,7 +18,7 @@ Uses a high-speed USB 2.0 interface to achieve stable mouse polling rates of ***
 2x MCU - CH32V307VCT6 (144Mhz)  
 7x RGB LED - Firmware version, Mode status, Flashing mode, Mouse input, Mouse output, Commend input, Error code.  
 3x Button - Switch flashing mode, Switch ON/OFF, Force restart Uakmut.  
-1x USB 2.0 FS (Fast Speed, 12Mbps)  
+1x USB 2.0 FS (Full Speed, 12Mbps)  
 2x USB 2.0 HS (High Speed, 480Mbps)  
 
 ## LED Color
