@@ -1,6 +1,7 @@
 <span style="font-size: 50px;"><p align="center">🖱 __Uakmut__ 🕹</p></span>
 =
 <p align="center"><a href="https://github.com/Uakisyu/Uakmut/blob/main/README.md">English</a></p>
+<p align="center">🏮 即将于 2026 年春节当天发布 - 新春快乐 🏮</p>
 
 # Uakmut
 使用真实硬件实现对鼠标的中间人攻击。
@@ -39,10 +40,10 @@ PCB 设计图不会开源, 因为这个项目只是为我自己创建的, 源代
 目前我没有出售PCB设计图的想法, 但是商业合作还是有可能的..  
 如果你真的想要PCB设计图之类(或合作), 你可以通过Telegram私信我: @Uakisyu  
 
-## Uakisyu 版本说明
-[未发布] Uakisyu v1 是首先发布版，首先实现所有功能.  
-[未发布] Uakisyu v2 是优化版，目标在于优化成本, 实现将 MCU 替换为低价 MCU, 源代码将会发生变动以适配新的 MCU.  
-[未发布] Uakisyu v3 是最终版，目标在于优化所有项，PCB、源代码都将会发生较大改动.  
+## Uakmut 版本说明
+[未发布] Uakmut v1 是首先发布版，首先实现所有功能.  
+[未发布] Uakmut v2 是优化版，目标在于优化成本, 实现将 MCU 替换为低价 MCU, 源代码将会发生变动以适配新的 MCU.  
+当然, 最新的更改都将会被推送到主分支"main".
 
 ## 许可证
 本项目使用并遵循 **AGPL v3** 许可证.
