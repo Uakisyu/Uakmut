@@ -1,6 +1,7 @@
 <span style="font-size: 50px;"><p align="center">🖱 __Uakmut__ 🕹</p></span>
 =
 <p align="center"><a href="https://github.com/Uakisyu/Uakmut/blob/main/README_CN.md">中文文档</a></p>
+<p align="center">🏮 Released during the 2026 Lunar New Year - Happy Lunar New Year! 🏮</p>
 
 # Uakmut
 Use real hardware to perform a MITM (man-in-the-middle) attack on mouse.
@@ -38,6 +39,11 @@ Uses a high-speed USB 2.0 interface to achieve stable mouse polling rates of ***
 The PCB design will not be made public because this project was created for my own use, the source code is for reference only, and I will not release any compiled firmware.  
 Currently, I have no intention of selling the PCB design, but commercial collaborations are possible...  
 If you really need it, you can contact me on Telegram: @Uakisyu  
+
+## Uakmut version Notes
+[Unreleased] Uakmut v1 is the first release version, implementing all features.  
+[Unreleased] Uakmut v2 is an optimized version, aiming to reduce costs and replace the MCU with a lower-cost MCU. The source code will be modified to adapt to the new MCU.  
+Of course, the latest changes will be pushed to the main branch.  
 
 ## LICENSE
 This project is licensed under the **AGPL v3** license.
