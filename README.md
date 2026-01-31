@@ -41,8 +41,8 @@ Currently, I have no intention of selling the PCB design, but commercial collabo
 If you really need it, you can contact me on Telegram: @Uakisyu  
 
 ## Uakmut version Notes
-[Unreleased] Uakmut v1 is the first release version, implementing all features.  
-[Unreleased] Uakmut v2 is an optimized version, aiming to reduce costs and replace the MCU with a lower-cost MCU. The source code will be modified to adapt to the new MCU.  
+**[Developing]** Uakmut v1 is the first release version, implementing all features.  
+**[Unreleased]** Uakmut v2 is an optimized version, aiming to reduce costs and replace the MCU with a lower-cost MCU. The source code will be modified to adapt to the new MCU.  
 Of course, the latest changes will be pushed to the main branch.  
 
 ## LICENSE
