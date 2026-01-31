@@ -18,8 +18,8 @@
 2x MCU - CH32V307VCT6 (144Mhz)  
 7x 全彩 RGB LED 灯 - 固件版本, Uakmut 开关状态, 刷写模式状态, 鼠标输入状态, 鼠标输出状态, 指令输出状态, 错误码.  
 3x 按钮 - 切换刷写模式, 切换开关, 强制重启 Uakmut.  
-1x 全速 USB 2.0 (Full Speed, 12Mbps)  
-2x 高速 USB 2.0 (High Speed, 480Mbps)  
+1x 全速 USB 2.0 接口 (Full Speed, 12Mbps)  
+2x 高速 USB 2.0 接口 (High Speed, 480Mbps)  
 
 ## LED 灯 - 颜色说明
 **F** - 固件版本 LED: 可自定义. 但是一般情况下是: 红色代表固件为开发版本, 蓝色代表固件为测试版本, 绿色代表固件为正式版本, 紫色一般表示固件为 Uakisyu 的私人版本.  
