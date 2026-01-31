@@ -1,5 +1,7 @@
-<p align="center">Uakmut</p>  
+<span style="font-size: 50px;"><p align="center">🖱 __Uakmut__ 🕹</p></span>
+=
 <p align="center"><a href="https://github.com/Uakisyu/Uakmut/blob/main/README_CN.md">中文文档</a></p>
+
 # Uakmut
 Use real hardware to perform a MITM (man-in-the-middle) attack on mouse.
   
