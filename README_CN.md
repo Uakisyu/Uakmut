@@ -16,7 +16,7 @@
 
 ## 整体设计
 2x MCU - CH32V307VCT6 (144Mhz)  
-7x RGB LED 灯 - 固件版本, Uakmut 开关状态, 刷写模式状态, 鼠标输入状态, 鼠标输出状态, 指令输出状态, 错误码.  
+7x 全彩 RGB LED 灯 - 固件版本, Uakmut 开关状态, 刷写模式状态, 鼠标输入状态, 鼠标输出状态, 指令输出状态, 错误码.  
 3x 按钮 - 切换刷写模式, 切换开关, 强制重启 Uakmut.  
 1x 全速 USB 2.0 (Full Speed, 12Mbps)  
 2x 高速 USB 2.0 (High Speed, 480Mbps)  
