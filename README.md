@@ -8,12 +8,22 @@ Use real hardware to perform a MITM (man-in-the-middle) attack on mouse.
   
 ## Overall design
 2x MCU - CH32V307VCT6 (144Mhz)  
-6x LED - Firmware version, Mode status, flashing mode, Mouse input, Mouse output, Connection status with output command software.
-2x Button - 
+7x LED - Firmware version, Mode status, Flashing mode, Mouse input, Mouse output, Commend input, Error code.  
+3x Button - Switch flashing mode, Switch ON/OFF, Force restart Uakmut.  
 
 ## LED Color
 **F** - Firmware verison LED: Customizable. But generally speaking: Red represents the development version, Blue represents the beta version, Green represents the official version, Purple represents the Uakisyu's private version.  
 **M** - Mode Status LED: **Red** (OFF, outputs only raw mouse commands), **Green**(ON, transmit processed mouse commands).
+**R** - Flashing Mode: **Red** (OFF), **Green** (ON).  
+**I** - Mouse input: **Red** (Mouse not connected), **Green** (Mouse connected).  
+**O** - Mouse output: **Red** (PC not connected), **Green** (PC connected).  
+**C** - Command input: **Red** (No command input), **Green** (Command input received).  
+**E** - Error code: **Green** (No error). Please see the source code for other colors.  
+
+## Button
+**R** - Switch flashing mode (Press twice in a row)  
+**M** - Switch ON/OFF (Press twice in a row)  
+**F** - Force restart Uakmut (Press twice in a row)  
 
 ## LICENSE
 This project is licensed under the **AGPL v3** license.
