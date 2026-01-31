@@ -30,5 +30,10 @@ Uses a high-speed USB 2.0 interface to achieve stable mouse polling rates of ***
 **M** - Switch ON/OFF (Press twice in a row)  
 **F** - Force restart Uakmut (Press twice in a row)  
 
+## PCB?
+The PCB design will not be made public because this project was created for my own use, the source code is for reference only, and I will not release any compiled firmware.  
+Currently, I have no intention of selling the PCB design, but commercial collaborations are possible...  
+If you really need it, you can contact me on Telegram: @Uakisyu  
+
 ## LICENSE
 This project is licensed under the **AGPL v3** license.
