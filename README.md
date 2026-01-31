@@ -20,6 +20,7 @@ Uses a high-speed USB 2.0 interface to achieve stable mouse polling rates of ***
 3x Button - Switch flashing mode, Switch ON/OFF, Force restart Uakmut.  
 1x USB 2.0 FS (Full Speed, 12Mbps)  
 2x USB 2.0 HS (High Speed, 480Mbps)  
+1x SL 2.1A (USB to HUB)
 
 ## LED Color
 **F** - Firmware verison LED: Customizable. But generally speaking: Red represents the development version, Blue represents the beta version, Green represents the official version, Purple represents the Uakisyu's private version.  
